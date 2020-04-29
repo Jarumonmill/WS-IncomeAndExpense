@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WS-IncomeAndExpense</string>
+    <string name="action_settings">Settings</string>
+
+    <integer name="edit_fade_duration">800</integer>
+    <string name="title_activity_income_expense">IncomeExpenseActivity</string>
+    <string name="title_activity_input_data">InputDataActivity</string>
+</resources>
